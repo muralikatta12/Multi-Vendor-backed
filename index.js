@@ -28,7 +28,7 @@ app.listen(PORT, () => {
 
 })
 
-app.use('/home', (req, res) => {
+app.use('/', (req, res) => {
     res.send("<h1> Welcome to SUBY");
 
 })
