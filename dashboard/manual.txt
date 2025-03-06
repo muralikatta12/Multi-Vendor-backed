@@ -1,0 +1,14 @@
+Reaact JS
+Backend Dashboard
+
+
+components vendorDashboard
+           ->Navbar
+           ->Sidebar
+           ->All_products
+forms: 
+   ->Vendor_register
+   ->Vendor_login
+   ->Add firm
+   ->Add_products
+   
