@@ -37,6 +37,5 @@ const firmSchema = new mongoose.Schema({
         ref: 'Product'
     }]
 });
-
 const Firm = mongoose.model('Firm', firmSchema);
 module.exports = Firm;
